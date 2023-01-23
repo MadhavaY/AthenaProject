@@ -1,0 +1,38 @@
+.main{
+    /* border: 2px solid red; */
+    margin-left: 4rem;
+    width: 40%;
+    position: absolute;
+    top: 27%;
+    z-index: 0;
+}
+
+.elements span{
+    font-size: 1.4rem;
+    background-image: linear-gradient(60deg,#ff3a7c,#741eff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    
+}
+.elements span:nth-child(2){
+    margin-top: 5rem;
+}
+
+.elements h2{
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 1.2;
+}
+
+
+.elements p{
+    color: gray;
+    font-size: 1.2rem;
+    
+    padding-bottom: 9rem;
+}
+
+.elements li{
+    list-style-type: none;
+}

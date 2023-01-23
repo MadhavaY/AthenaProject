@@ -1,0 +1,34 @@
+
+
+.image{
+
+    /* background-image: url("https://global-uploads.webflow.com/62efc7cb58ad153bfb146988/63455a67996ba248148c4e31_add-options%20(3)-poster-00001.jpg"); */
+    
+    width: 720px;
+    height: 64%;
+    border-radius: 3rem;
+    position: fixed;
+    right: 5rem;
+    top: 50%;
+    bottom: 50%;
+    display: flex;
+    margin: auto;
+}
+
+.video{
+
+    background-size: cover;
+    background-position: 50% 50%;
+    position: fixed;
+    margin: auto;
+    width: 720px;
+    height: 64%;
+    right: -142%;
+    bottom: -100%;
+    top: -100%;
+    left: -100%;
+    object-fit: cover;
+    border-radius: 3rem;
+
+ 
+}

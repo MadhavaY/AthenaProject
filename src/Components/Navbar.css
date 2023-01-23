@@ -1,0 +1,24 @@
+
+
+.Nav{
+    background-color: black;
+    height: 5rem;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+
+
+.element{
+    padding: 1rem;
+    color: white;
+    display: inline;
+    position: inherit;
+     margin: 0 2rem 0 1rem; 
+}
+
+
+
